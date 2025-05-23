@@ -1,1 +1,6 @@
+# packages for installation
 streamlit
+mag4
+pandas
+matplotlib
+numpy
